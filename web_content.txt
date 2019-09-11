@@ -1,0 +1,5 @@
+<span id="a">mantas@kentra</span>:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- laglaglaglaglaglag -->About_Us
+<span id="a">mantas@kentra</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->CodeNerve.txt<br/><br/>
+This is a test
+
+<p>Cheers!</p>
